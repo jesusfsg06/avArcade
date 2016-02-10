@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" name="Default" comment="" />
+    <ignored path="upload.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/../look/index.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396146423101" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/registro.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395675229940" ignored="false" />
+    <file path="/index.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396146420635" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/css/style.css" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395341159909" ignored="false" />
+    <file path="/style.css" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1397500854831" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/admin/index.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395342168704" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/admin/index.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396240384100" ignored="false" />
+    <file path="/index.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396144724682" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/admin/logout.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395342726019" ignored="false" />
+    <file path="$PROJECT_DIR$/../web/admin/listarecetas.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395343099033" ignored="false" />
+    <file path="$PROJECT_DIR$/../web/listarecetasu.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395343201971" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/admin/lobby.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396241359937" ignored="false" />
+    <file path="/lobby.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396240161327" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/conex.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395674415230" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/admin/anadirproductos.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396239628225" ignored="false" />
+    <file path="/anadirproductos.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395674670234" ignored="false" />
+    <file path="$PROJECT_DIR$/../web/admin/usuario.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395414499921" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/admin/productos.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395674458015" ignored="false" />
+    <file path="/productos.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395414910832" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/contact.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395674378122" ignored="false" />
+    <file path="/contact.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395417325760" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/contact.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638285745" ignored="false" />
+    <file path="/contact.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395417194662" ignored="false" />
+    <file path="/dummy.txt" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395417187072" ignored="false" />
+    <file path="$PROJECT_DIR$/../casadeempeno/resultados.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395418131164" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/resultados.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396240100322" ignored="false" />
+    <file path="/resultados.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395543511441" ignored="false" />
+    <file path="/a.dummy" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398882735333" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/conexion.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395674404478" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/admin/anadirusuarios.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396240454639" ignored="false" />
+    <file path="/anadirusuarios.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396148708140" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/admin/usuario.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395760536980" ignored="false" />
+    <file path="/usuario.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395596405292" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/barber_shop.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396144984962" ignored="false" />
+    <file path="/barber_shop.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396144984571" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/corte_de_pelo_hombre.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395931563556" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/corte_de_pelo_mujer.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638300064" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/derrizados.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638309194" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/extensione.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638318509" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/lobby.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395637878323" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/manicure.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638335610" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/reservacion.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396239656381" ignored="false" />
+    <file path="/reservacion.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396239248396" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/unas_acrilicas.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638414540" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/tinte_pelo.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638419188" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/tinte.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638401567" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/secado_de_pelo.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638396738" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/salon_belleza.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396144948108" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/recorte_barba.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638385680" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/pedicure.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638377353" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/nosotros.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638372287" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/mechones.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638365980" ignored="false" />
+    <file path="/corte_de_pelo_mujer.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395637919520" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/admin/reservacion.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396239643774" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/lobby.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396268007451" ignored="false" />
+    <file path="/mechones.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638364413" ignored="false" />
+    <file path="/nosotros.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638371088" ignored="false" />
+    <file path="/pedicure.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638375933" ignored="false" />
+    <file path="/recorte_barba.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638383623" ignored="false" />
+    <file path="/salon_belleza.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396144948108" ignored="false" />
+    <file path="/secado_de_pelo.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638396343" ignored="false" />
+    <file path="/tinte.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638401009" ignored="false" />
+    <file path="/tinte_pelo.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638419188" ignored="false" />
+    <file path="/unas_acrilicas.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395638414540" ignored="false" />
+    <file path="/registro.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395675179261" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/funciones.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395675206106" ignored="false" />
+    <file path="/footer.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1397535652377" ignored="false" />
+    <file path="/SEO.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1397535879753" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/actualizarreg.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395935041342" ignored="false" />
+    <file path="/actualizarreg.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395935041342" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/update.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395937632553" ignored="false" />
+    <file path="/update.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395937620160" ignored="false" />
+    <file path="/servicios.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395934306584" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/admin/servicios.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395947124506" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/barber_shop.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395931234113" ignored="false" />
+    <file path="/barber_shop.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395931205251" ignored="false" />
+    <file path="/corte_de_pelo_hombre.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395931390347" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/corte_de_pelo_hombre.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395935723744" ignored="false" />
+    <file path="/corte_de_pelo_hombre.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395935724076" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/corte_de_pelo_mujer.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395932319488" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/derrizados.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950895400" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/extensione.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395932440845" ignored="false" />
+    <file path="/extensione.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395932431658" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/manicure.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950872394" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/mechones.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950860460" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/pedicure.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950847603" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/recorte_barba.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396241001350" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/secado_de_pelo.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950805723" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/tinte.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950793911" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/tinte_pelo.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950765979" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/unas_acrilicas.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950751838" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/admin/anadirservicios.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396267988159" ignored="false" />
+    <file path="/anadirservicios.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396267986190" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/calculadora.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395946872823" ignored="false" />
+    <file path="/calculadora.html" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395946774384" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/calculadora.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396239997397" ignored="false" />
+    <file path="/calculadora.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950147248" ignored="false" />
+    <file path="/unas_acrilicas.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950730392" ignored="false" />
+    <file path="/tinte_pelo.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950765979" ignored="false" />
+    <file path="/tinte.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950793911" ignored="false" />
+    <file path="/secado_de_pelo.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950805723" ignored="false" />
+    <file path="/pedicure.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950847603" ignored="false" />
+    <file path="/mechones.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950860773" ignored="false" />
+    <file path="/manicure.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950872724" ignored="false" />
+    <file path="/derrizados.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1395950895735" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/admin/reservar.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396239186323" ignored="false" />
+    <file path="/reservar.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396239211186" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/reservar.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396239212585" ignored="false" />
+    <file path="$PROJECT_DIR$/../look/index.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396239838208" ignored="false" />
+    <file path="/recorte_barba.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1396241001351" ignored="false" />
+    <file path="/homepage.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1399942845432" ignored="false" />
+    <file path="/.htaccess" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398100003400" ignored="false" />
+    <file path="/sidebar.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398184248545" ignored="false" />
+    <file path="/FB.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398193324997" ignored="false" />
+    <file path="/Dummy.txt" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398882469161" ignored="false" />
+    <file path="/header.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398746973390" ignored="false" />
+    <file path="$PROJECT_DIR$/../condominium/index.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398882458636" ignored="false" />
+    <file path="$PROJECT_DIR$/../condominium/application/modules/production/requests/views/requests_view.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398882458637" ignored="false" />
+    <file path="$PROJECT_DIR$/../condominium/application/modules/production/requests/views/request_new_view.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398882458637" ignored="false" />
+    <file path="$PROJECT_DIR$/../condominium/application/modules/production/requests/views/request_edit_view.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398882458637" ignored="false" />
+    <file path="$PROJECT_DIR$/../condominium/application/modules/production/requests/models/request_model.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398882458637" ignored="false" />
+    <file path="$PROJECT_DIR$/../condominium/application/modules/production/requests/controllers/requests.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398882458637" ignored="false" />
+    <file path="$PROJECT_DIR$/../condominium/application/modules/production/locations/controllers/locations.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398882458637" ignored="false" />
+    <file path="$PROJECT_DIR$/../condominium/application/modules/production/status/models/status_model.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398882458637" ignored="false" />
+    <file path="$PROJECT_DIR$/../condominium/application/modules/production/inspections/views/inspections_edit_view.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398882458637" ignored="false" />
+    <file path="$PROJECT_DIR$/../condominium/application/modules/condominium/assets/controllers/assets.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398883882166" ignored="false" />
+    <file path="/assets.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1398883847565" ignored="false" />
+    <file path="/randomSLIDE.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1399952747286" ignored="false" />
+    <file path="$PROJECT_DIR$/../condominium/application/modules/condominium/docs/views/doc_edit_view.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1399987987504" ignored="false" />
+    <file path="/doc_edit_view.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1399987792401" ignored="false" />
+    <file path="$PROJECT_DIR$/../condominium/application/modules/condominium/docs/controllers/docs.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1399988084406" ignored="false" />
+    <file path="$PROJECT_DIR$/../condominium/application/modules/condominium/docs/views/doc_new_view.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1399988837848" ignored="false" />
+    <file path="/Common.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1399989888579" ignored="false" />
+    <file path="$PROJECT_DIR$/../condominium/application/libraries/Common.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1399989968534" ignored="false" />
+    <file path="$PROJECT_DIR$/../condominium/application/views/includes/navigation/condominium/navigation.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1399991636699" ignored="false" />
+    <file path="/navigation.php" changelist="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" time="1399991633672" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="upload" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="profile.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/macaw/pages/profile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="12" selection-start="3160" selection-end="3160" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homepage.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/macaw/pages/homepage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="45" selection-start="1194" selection-end="1194" vertical-scroll-proportion="-5.230769">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="randomSLIDE.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/macaw/sections/randomSLIDE.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="6" selection-start="560" selection-end="560" vertical-scroll-proportion="0.7405941">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="17" selection-start="219" selection-end="219" vertical-scroll-proportion="-3.2692308">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/macaw/pages/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="58" column="155" selection-start="1625" selection-end="1625" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/macaw/pages/misc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="12" selection-start="1072" selection-end="1072" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/macaw/pages/news.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="3" selection-start="1265" selection-end="1265" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/macaw/pages/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="33" selection-start="1014" selection-end="1014" vertical-scroll-proportion="-0.65384614">
+              <folding>
+                <marker date="1398868850522" expanded="false" signature="1759:1844" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_game.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/macaw/pages/view_game.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="69" column="12" selection-start="3001" selection-end="3001" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="category.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/macaw/pages/category.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="12" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/language/Espanol.php" />
+        <option value="$PROJECT_DIR$/templates/macaw/style.css" />
+        <option value="$PROJECT_DIR$/templates/macaw/sections/FB.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/templates/macaw/pages/sidebar.php" />
+        <option value="$PROJECT_DIR$/templates/macaw/sections/LINKAD.php" />
+        <option value="$PROJECT_DIR$/templates/macaw/pages/view_game.php" />
+        <option value="$PROJECT_DIR$/templates/macaw/pages/profile.php" />
+        <option value="$PROJECT_DIR$/templates/macaw/pages/misc.php" />
+        <option value="$PROJECT_DIR$/templates/macaw/pages/category.php" />
+        <option value="$PROJECT_DIR$/templates/macaw/pages/news.php" />
+        <option value="$PROJECT_DIR$/templates/macaw/pages/footer.php" />
+        <option value="$PROJECT_DIR$/templates/macaw/pages/header.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/templates/macaw/pages/homepage.php" />
+        <option value="$PROJECT_DIR$/templates/macaw/sections/randomSLIDE.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="macaw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="macaw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="macaw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cash_v3" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5f32835-a5a9-4d13-92ec-755bcc3f3b89" name="Default" comment="" />
+      <created>1394986961387</created>
+      <updated>1394986961387</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18844984" sideWeight="0.6421233" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35787672" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/includes/facebook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="43" selection-start="902" selection-end="902" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/facebook_channel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/macaw/sections/FB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/macaw/pages/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="4" selection-start="1051" selection-end="1051" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/macaw/sections/LINKAD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="9" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/macaw/pages/view_game.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="12" selection-start="3001" selection-end="3001" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/macaw/pages/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="12" selection-start="3160" selection-end="3160" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/macaw/pages/misc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="12" selection-start="1072" selection-end="1072" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/macaw/pages/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="3" selection-start="1265" selection-end="1265" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/macaw/pages/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="155" selection-start="1625" selection-end="1625" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/macaw/pages/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="12" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/macaw/pages/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="33" selection-start="1014" selection-end="1014" vertical-scroll-proportion="-0.65384614">
+          <folding>
+            <marker date="1398868850522" expanded="false" signature="1759:1844" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="17" selection-start="219" selection-end="219" vertical-scroll-proportion="-3.2692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/macaw/pages/homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="45" selection-start="1194" selection-end="1194" vertical-scroll-proportion="-5.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/macaw/sections/randomSLIDE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="6" selection-start="560" selection-end="560" vertical-scroll-proportion="0.7405941">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

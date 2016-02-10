@@ -1,0 +1,1 @@
+<div class="fb-like-box" data-href="http://www.facebook.com/purojuegos.net" data-width="407" data-height="300" data-show-faces="true" data-stream="false" data-header="true"></div>
